@@ -9,7 +9,7 @@ module.exports = {
 
       fontFamily :
       {
-        'roboto': 'Roboto'
+        sans: ['Inter','sans-serif']
       },
 
 
